@@ -4,5 +4,7 @@
 
  [Lambda表达式](./Lambda表达式.md)
 
-[Effective C++开发规范](./Effective C++开发规范条款)
+[Effective C++开发规范](./Effective C++开发规范条款.md)
+
+
 
